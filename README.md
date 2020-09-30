@@ -1,4 +1,4 @@
-#MineriaDeDatos
+# MineriaDeDatos 
 
 - [Mapa Mental 1](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/MapaMental_1_1820160.pdf)
 - [Presentación Regresión](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Presentaci%C3%B3n_Regresi%C3%B3n_002.pdf)
