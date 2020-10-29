@@ -9,3 +9,4 @@
 - [Mapa Mental 2](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/MapaMental_2_1820160.pdf)
 - [Análisis BD](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/An%C3%A1lisis%20BD_1820160.pdf)
 - [PythonBásico](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/PythonB%C3%A1sico_1820160.ipynb)
+- [Avance 1 Pia](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Avance1-PIA_7_002.pdf)
