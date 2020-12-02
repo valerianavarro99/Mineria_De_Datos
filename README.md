@@ -15,3 +15,4 @@
 - [Practica Limpieza de datos](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Limpieza_Equipo7.ipynb)
 - [Practica Visualización de datos](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Visualizaci%C3%B3n_Equipo7.ipynb)
 - [Avance 2 Pia](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/AvancePIA_II_002_7.ipynb)
+- [PIA ](https://github.com/sofiarosalesg/MineriaDeDatos/blob/master/PIA_07_002.pdf)
